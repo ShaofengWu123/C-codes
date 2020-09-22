@@ -1,0 +1,8 @@
+﻿  引用类型参数,函数指针参数(回调函数).c
+C:\Users\msi\Desktop\C notes\C notes\引用类型参数,函数指针参数(回调函数).c(35,18): warning C4028: 形参 1 与声明不同
+C:\Users\msi\Desktop\C notes\C notes\引用类型参数,函数指针参数(回调函数).c(36,25): warning C4028: 形参 1 与声明不同
+C:\Users\msi\Desktop\C notes\C notes\引用类型参数,函数指针参数(回调函数).c(43,21): warning C4047: “函数”:“int”与“int *”的间接级别不同
+C:\Users\msi\Desktop\C notes\C notes\引用类型参数,函数指针参数(回调函数).c(43,16): warning C4024: “somefunction”: 形参和实参 1 的类型不同
+C:\Users\msi\Desktop\C notes\C notes\引用类型参数,函数指针参数(回调函数).c(49,21): warning C4047: “函数”:“int”与“int *”的间接级别不同
+C:\Users\msi\Desktop\C notes\C notes\引用类型参数,函数指针参数(回调函数).c(49,16): warning C4024: “somefunction”: 形参和实参 1 的类型不同
+  C notes.vcxproj -> C:\Users\msi\Desktop\C notes\C notes\Debug\C notes.exe
