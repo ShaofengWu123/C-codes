@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="引用类型参数,函数指针参数(回调函数).c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="struct-and-typedef.c">
+    <ClCompile Include="exercise function 10-7%28十进制转二进制%29.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
